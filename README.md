@@ -12,8 +12,7 @@ npm install
 ```
 
 ### Note:
-1 raw step-definition file
-1 step-definition file implemented with Page Objects and Common selenium functions
+1 step-definition with no Page Object and 1 step-definition file implemented with Page Objects and Common selenium functions
 
 ## Run test application
 Run all features:
@@ -32,5 +31,5 @@ npm run report
 Allure Test Report will be generated and launched in default browser
 
 ## Parallel Test Execution
-Just add a new instanc of browser in wdio.conf.js file. Based on maximum browser instances defined, features will be executed in parallel.
+Just add a new instance of browser in wdio.conf.js file. Based on maximum browser instances defined, features will be executed in parallel.
 Conoslidated report of parallel execution is also handled
