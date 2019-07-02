@@ -1,4 +1,3 @@
-@login
 Feature: Login
 
     Background: User naviagtes to UAT

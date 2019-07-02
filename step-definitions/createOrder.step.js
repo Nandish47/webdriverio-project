@@ -42,7 +42,7 @@ When(/^clicks on Process button$/, function () {
 });
 
 Then(/^all the entered fields on Orders Page are reset to default value$/, function () {
-    expect(ordersLib.isOrdersPageReset(), "Orders page is reset").to.be.false
+    expect(ordersLib.isOrdersPageReset(), "Orders page is reset").to.be.true
 });
 
 Then(/^order is successfully created$/, function () {

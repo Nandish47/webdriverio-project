@@ -1,4 +1,3 @@
-@main
 Feature: Create Order
 
     Background: 
