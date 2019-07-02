@@ -1,0 +1,34 @@
+{
+  "name": "webdriverio-project",
+  "version": "1.0.0",
+  "description": "TestAutomation with WebdriverIO + Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio wdio.conf.js",
+    "wdio": "wdio",
+    "allure": "allure",
+    "report": "allure generate results --clean && allure open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nandish47"
+  },
+  "author": "Nandish Siddaiah",
+  "license": "lic",
+  "bugs": {
+    "url": "https://github.com/Nandish47"
+  },
+  "homepage": "https://github.com/Nandish47",
+  "dependencies": {},
+  "devDependencies": {
+    "allure-commandline": "^2.5.0",
+    "chai": "^4.1.2",
+    "glob": "^7.1.2",
+    "selenium-standalone": "^6.15.0",
+    "wdio-allure-reporter": "^0.6.2",
+    "wdio-cucumber-framework": "^2.2.8",
+    "wdio-selenium-standalone-service": "0.0.12",
+    "wdio-spec-reporter": "^0.1.4",
+    "webdriverio": "4.10.2"
+  }
+}
