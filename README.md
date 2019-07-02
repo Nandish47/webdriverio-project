@@ -1,4 +1,4 @@
-## WebdriverIO v4 UI Automation code with Cucumber
+## WebdriverIO v4 UI Automation with Cucumber
 Boilerplate for UI Automation test with WebdriverIO v4 and Cucumber
 
 ## Installation
