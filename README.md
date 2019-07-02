@@ -7,7 +7,6 @@ You must have [Node.js](https://www.nodejs.org/) installed.
 Clone the project or download locally.
 
 Install the Dependencies:
-Run 
 ```sh
 npm install
 ```
