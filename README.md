@@ -1,9 +1,13 @@
-# WebdriverIO Mocha Framework
+## WebdriverIO v4 UI Automation code with Cucumber
+Boilerplate for UI Automation test with WebdriverIO v4 and Cucumber
 
 ## Installation
 
 You must have [Node.js](https://www.nodejs.org/) installed.
+Clone the project or download locally.
 
+Install the Dependencies:
+Run 
 ```sh
 npm install
 ```
