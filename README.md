@@ -32,4 +32,4 @@ Allure Test Report will be generated and launched in default browser
 
 ## Parallel Test Execution
 Just add a new instance of browser in wdio.conf.js file. Based on maximum browser instances defined, features will be executed in parallel.
-Conoslidated report of parallel execution is build-in :)
+Conoslidated report of parallel execution is built-in :)
